@@ -1,0 +1,99 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: PT_Medieval_Weapons_Material
+  m_Shader: {fileID: 4800000, guid: d50c8cde2c95f1d43ae0b94621f0abc4, type: 3}
+  m_ShaderKeywords: _METALICON_ON _SMOOTHNESSON_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _COATOFARMSMASK:
+        m_Texture: {fileID: 2800000, guid: 9e05572353416ab449d9532718c065eb, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _TextureSample2:
+        m_Texture: {fileID: 2800000, guid: 7772baab606a3874d99a1e30d4b6b891, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _TextureSample9:
+        m_Texture: {fileID: 2800000, guid: f88a8d19ac8f5724aa4e309405c476b6, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _texcoord:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _texcoord2:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _CEL1POWER: 0.15
+    - _CEL1SIZE: 0.1
+    - _CEL2POWER: 0.15
+    - _CEL2SIZE: 0.4
+    - _CEL3POWER: 0.15
+    - _CEL3SIZE: 0.8
+    - _GEMS1SMOOTHNESS: 0.5
+    - _GEMS2SMOOTHNESS: 0.4
+    - _GEMS3SMOOTHNESS: 0.3
+    - _LEATHER1SMOOTHNESS: 0.3
+    - _LEATHER2SMOOTHNESS: 0.577
+    - _LEATHER3SMOOTHNESS: 0.3
+    - _METAL1METALLIC: 0.65
+    - _METAL1SMOOTHNESS: 0.7
+    - _METAL2METALLIC: 0.65
+    - _METAL2SMOOTHNESS: 0.7
+    - _METAL3METALLIC: 0.65
+    - _METAL3SMOOTHNESS: 0.7
+    - _METAL4METALLIC: 0.65
+    - _METAL4SMOOTNESS: 0.7
+    - _MetalicOn: 1
+    - _OCCLUSION: 0.4139509
+    - _PAINT1SMOOTHNESS: 1
+    - _PAINT2SMOOTHNESS: 0
+    - _PAINT3SMOOTHNESS: 0
+    - _SmoothnessOn: 1
+    - _WOOD1SMOOTHNESS: 0.432
+    - _WOOD2SMOOTHNESS: 0.309
+    - _WOOD3SMOOTHNESS: 0.377
+    - __dirty: 0
+    m_Colors:
+    - _CEL1COLOR: {r: 1, g: 1, b: 1, a: 0}
+    - _CEL2COLOR: {r: 1, g: 1, b: 1, a: 0}
+    - _CEL3COLOR: {r: 1, g: 1, b: 1, a: 0}
+    - _COATOFARMSCOLOR: {r: 1, g: 0, b: 0, a: 0}
+    - _FEATHERS1COLOR: {r: 0.3301887, g: 0.1241556, b: 0.04516733, a: 0}
+    - _FEATHERS2COLOR: {r: 0.509434, g: 0.4260285, b: 0.1802243, a: 0}
+    - _FEATHERS3COLOR: {r: 0.509434, g: 0.25712, b: 0.25712, a: 0}
+    - _FEATHERS4COLOR: {r: 0.8113208, g: 0.2104842, b: 0.2104842, a: 0}
+    - _FEATHERS5COLOR: {r: 0.4150943, g: 0.2615769, b: 0.1468494, a: 0}
+    - _FEATHERS6COLOR: {r: 0.7924528, g: 0.7444169, b: 0.6391954, a: 0}
+    - _GEMS1COLOR: {r: 1, g: 0, b: 0, a: 0}
+    - _GEMS2COLOR: {r: 0, g: 0.3218706, b: 0.5754717, a: 0}
+    - _GEMS3COLOR: {r: 0, g: 0.4716981, b: 0.1359325, a: 0}
+    - _LEATHER1COLOR: {r: 0.2924528, g: 0.1296404, b: 0.09242612, a: 1}
+    - _LEATHER2COLOR: {r: 0.06603771, g: 0.03523636, b: 0.03146137, a: 1}
+    - _LEATHER3COLOR: {r: 0.1320755, g: 0.03139969, b: 0.02180491, a: 1}
+    - _METAL1COLOR: {r: 0.7261481, g: 0.7735849, b: 0.7528313, a: 0}
+    - _METAL2COLOR: {r: 1.678431, g: 1.003922, b: 0.1176471, a: 0}
+    - _METAL3COLOR: {r: 0.597023, g: 0.6237553, b: 0.7395956, a: 0}
+    - _METAL4COLOR: {r: 0.8791043, g: 0.8044721, b: 0.9422547, a: 0}
+    - _PAINT1COLOR: {r: 0.5450981, g: 0.6936808, b: 0.6980392, a: 0}
+    - _PAINT2COLOR: {r: 0.3649431, g: 0.5566038, b: 0.4386422, a: 0}
+    - _PAINT3COLOR: {r: 0.5849056, g: 0.5418971, b: 0.4331613, a: 0}
+    - _WOOD1COLOR: {r: 0.1981132, g: 0.08345769, b: 0.06261124, a: 0}
+    - _WOOD2COLOR: {r: 0.1320755, g: 0.06452555, b: 0.05420079, a: 0}
+    - _WOOD3COLOR: {r: 0.1037736, g: 0.07509367, b: 0.04650232, a: 0}

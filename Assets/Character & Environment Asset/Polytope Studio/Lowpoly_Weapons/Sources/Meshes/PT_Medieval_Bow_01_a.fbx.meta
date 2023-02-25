@@ -1,0 +1,165 @@
+fileFormatVersion: 2
+guid: 70dbcee1ec801824599544755371bf61
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: PT_Medieval_Bow_01_a
+    100002: //RootNode
+    100004: PT_Medieval_bow_01_down_01
+    100006: PT_Medieval_bow_01_down_02
+    100008: PT_Medieval_bow_01_down_03
+    100010: PT_Medieval_bow_01_down_04
+    100012: PT_Medieval_bow_01_root
+    100014: PT_Medieval_bow_01_string
+    100016: PT_Medieval_bow_01_up_01
+    100018: PT_Medieval_bow_01_up_02
+    100020: PT_Medieval_bow_01_up_03
+    100022: PT_Medieval_bow_01_up_04
+    100024: PT_Medieval_Bow_01_a_body
+    100026: PT_Medieval_Bow_01_a_string
+    100028: PT_Medieval_Bow_01_down_01
+    100030: PT_Medieval_Bow_01_down_02
+    100032: PT_Medieval_Bow_01_down_03
+    100034: PT_Medieval_Bow_01_down_04
+    100036: PT_Medieval_Bow_01_root
+    100038: PT_Medieval_Bow_01_string
+    100040: PT_Medieval_Bow_01_up_01
+    100042: PT_Medieval_Bow_01_up_02
+    100044: PT_Medieval_Bow_01_up_03
+    100046: PT_Medieval_Bow_01_up_04
+    400000: PT_Medieval_Bow_01_a
+    400002: //RootNode
+    400004: PT_Medieval_bow_01_down_01
+    400006: PT_Medieval_bow_01_down_02
+    400008: PT_Medieval_bow_01_down_03
+    400010: PT_Medieval_bow_01_down_04
+    400012: PT_Medieval_bow_01_root
+    400014: PT_Medieval_bow_01_string
+    400016: PT_Medieval_bow_01_up_01
+    400018: PT_Medieval_bow_01_up_02
+    400020: PT_Medieval_bow_01_up_03
+    400022: PT_Medieval_bow_01_up_04
+    400024: PT_Medieval_Bow_01_a_body
+    400026: PT_Medieval_Bow_01_a_string
+    400028: PT_Medieval_Bow_01_down_01
+    400030: PT_Medieval_Bow_01_down_02
+    400032: PT_Medieval_Bow_01_down_03
+    400034: PT_Medieval_Bow_01_down_04
+    400036: PT_Medieval_Bow_01_root
+    400038: PT_Medieval_Bow_01_string
+    400040: PT_Medieval_Bow_01_up_01
+    400042: PT_Medieval_Bow_01_up_02
+    400044: PT_Medieval_Bow_01_up_03
+    400046: PT_Medieval_Bow_01_up_04
+    2300000: PT_Medieval_Bow_01_a_body
+    2300002: PT_Medieval_Bow_01_a_string
+    3300000: PT_Medieval_Bow_01_a_body
+    3300002: PT_Medieval_Bow_01_a_string
+    4300000: PT_Medieval_Bow_01_a
+    4300002: PT_Medieval_Bow_01_a_body
+    4300004: PT_Medieval_Bow_01_a_string
+    9500000: //RootNode
+    13700000: PT_Medieval_Bow_01_a
+    13700002: PT_Medieval_Bow_01_a_body
+    13700004: PT_Medieval_Bow_01_a_string
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PT_Medieval_Weapons_Material
+    second: {fileID: 2100000, guid: d20ab871c62edf04facff84d4ce183b5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PT_Medieval_mat
+    second: {fileID: 2100000, guid: 741114174bb42e0458ead3dc0d64ab38, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: phong1
+    second: {fileID: 2100000, guid: 5f6472cb938b1b745899da3b942752df, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
