@@ -122,7 +122,7 @@ NavMeshSettings:
     preserveTilesOutsideBounds: 0
     debug:
       m_Flags: 0
-  m_NavMeshData: {fileID: 0}
+  m_NavMeshData: {fileID: 23800000, guid: 7b630ea3dd43e2d4991ab67572c43f96, type: 2}
 --- !u!1 &89750511
 GameObject:
   m_ObjectHideFlags: 0
@@ -552,9 +552,9 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1450254601}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Terrain
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3582,9 +3582,9 @@ GameObject:
   - component: {fileID: 9102338832705170064}
   - component: {fileID: 1417729831331191448}
   - component: {fileID: 3488727081559965737}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Bridge
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 2147483647
@@ -4375,9 +4375,9 @@ GameObject:
   - component: {fileID: 4569430983792932193}
   - component: {fileID: 5165083777943569568}
   - component: {fileID: 6093597648780598876}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Ground
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 2147483647
@@ -6558,9 +6558,9 @@ GameObject:
   m_Component:
   - component: {fileID: 7704011017306937280}
   - component: {fileID: 4326281281483263418}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Player
-  m_TagString: Untagged
+  m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
